@@ -1,5 +1,8 @@
 # music_player_app
 
+![music player image](https://user-images.githubusercontent.com/98849270/177639224-36b14ce3-b9cc-4fb4-bbf9-ddcf3446f869.png)
+
+
 A new Flutter project.
 
 ## Getting Started
